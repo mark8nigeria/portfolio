@@ -1,0 +1,145 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+.head{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    display: flex;
+    
+}
+
+
+.nav{
+    flex-direction: row;
+display: inline-block;
+list-style:;
+width: 100%;
+text-align: center;
+
+}
+a{
+    padding: 10px;
+}
+a:hover{
+    background-color: red;
+    color: white;
+
+    
+}
+ 
+ul{
+   text-align: right; 
+   background-position: 100%;
+   display: flex;
+   list-style:none;
+   /* margin: 0px 10px 0px 10px; */
+   justify-content: space-between;
+   position: sticky;
+   color: white;
+   justify-content: space-between;
+   
+}
+
+
+li{
+    margin: 5px 20px 5px 10px;
+    padding: 100px;
+}
+.hi{
+    justify-content:center;
+}
+span{
+    font-size: xx-large ;
+    text-align: center;
+    font-style: italic;
+
+
+}
+main{
+    text-align: center;
+    background-color: wheat;
+}
+
+.first{
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+.hi{
+   font-family: 'Courier New', Courier, monospace;
+   text-shadow: 20px;
+  
+}
+.second{
+    align-items: flex-start;  
+}
+
+
+.mainpic{
+    align-items: flex-start;
+    border: solid black;
+    border-radius: 30px;
+    
+
+}
+ .para{
+  text-align: left;  
+;
+  
+ }
+
+ h2{
+    
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .image{
+    align-items: flex-start;
+ }
+
+ .pic{
+     width: 70px;
+     margin-bottom: 20px;
+     border-radius: 30px;
+     display: block;
+     justify-content: left;
+ }
+
+ .image{
+display:flex;
+justify-content: flex-start;
+ }
+
+
+.lg{
+    text-align: right; 
+   background-position: 100%;
+   display: flex;
+   list-style:none;
+   margin: 0%;
+}
+
+.fav{
+    color: blue;
+    text-align: right;
+    padding-bottom: 50px;
+}
+
+.background-image{
+    height: 100vh;
+    width: 100%;
+    background-image: url
+}
+
+.background-image{
+    background-image: url(download,jpg);
+}
+ul{
+    color: white;
+}
